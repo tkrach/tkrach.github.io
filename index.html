@@ -110,6 +110,11 @@
                     element.style.display = 'none';
                 }
             });
+            // Ensure the buttons remain visible
+            var buttons = document.querySelectorAll('.language-selection button');
+            buttons.forEach(function(button) {
+                button.style.display = 'inline-block';
+            });
         }
     </script>
 </body>
