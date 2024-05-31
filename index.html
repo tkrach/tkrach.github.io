@@ -4,117 +4,60 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Name - Personal Website</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 0 20px;
-        }
-        h1, h2, h3 {
-            margin-top: 0;
-        }
-        .language-selection {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .language-selection button {
-            background-color: #333;
-            color: #fff;
-            border: none;
-            padding: 10px 20px;
-            margin: 0 5px;
-            cursor: pointer;
-        }
-        .language-selection button:hover {
-            background-color: #555;
-        }
-        #about-me {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        #about-me img {
-            width: 200px;
-            border-radius: 50%;
-            margin-bottom: 20px;
-        }
-        #about-me p {
-            font-size: 18px;
-        }
-        section {
-            margin-bottom: 50px;
-        }
-        .jp {
-            display: none;
-        }
-    </style>
 </head>
 <body>
     <header>
         <h1>Your Name</h1>
-        <div class="language-selection">
-            <button onclick="changeLanguage('en')">English</button>
-            <button onclick="changeLanguage('jp')">日本語</button>
+        <nav>
+            <ul>
+                <li><a href="#summary">Professional Summary</a></li>
+                <li><a href="#resume">Resume</a></li>
+                <li><a href="#linkedin">LinkedIn</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div id="language-switcher">
+            <a href="#" onclick="changeLanguage('en')">English</a> | <a href="#" onclick="changeLanguage('jp')">日本語</a>
         </div>
     </header>
-    <div class="container">
-        <section id="about-me" class="en">
-            <img src="your_photo.jpg" alt="Your Name">
-            <h2>About Me</h2>
-            <p>Welcome to my personal website! I'm passionate about technology and enjoy creating innovative solutions.</p>
-        </section>
-        <section id="about-me" class="jp">
-            <img src="your_photo.jpg" alt="Your Name">
-            <h2>自己紹介</h2>
-            <p>私のウェブサイトへようこそ！私はテクノロジーに情熱を持ち、革新的なソリューションを作成することを楽しんでいます。</p>
-        </section>
-        <section id="resume" class="en">
-            <h2>Resume</h2>
-            <p>Download my resume <a href="path_to_your_resume.pdf" target="_blank">here</a>.</p>
-        </section>
-        <section id="resume" class="jp">
-            <h2>履歴書</h2>
-            <p>履歴書は<a href="path_to_your_resume.pdf" target="_blank">こちら</a>からダウンロードしてください。</p>
-        </section>
-        <section id="linkedin">
-            <h2>LinkedIn</h2>
-            <p>Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">Your Name</a></p>
-        </section>
-        <section id="contact">
-            <h2>Contact Me</h2>
-            <div class="contact-info">
-                <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
-                <p>Phone: +1234567890</p>
-                <p>Location: City, Country</p>
-            </div>
-        </section>
-    </div>
+    
+    <section id="summary">
+        <h2>Professional Summary</h2>
+        <p>Brief introduction about yourself, your skills, and your professional experience.</p>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <!-- Detailed resume section here -->
+    </section>
+
+    <section id="linkedin">
+        <h2>LinkedIn</h2>
+        <p>Link to your LinkedIn profile.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <!-- Showcase of your projects -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <!-- Contact information here -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
 
     <script>
-        function changeLanguage(lang) {
-            var elements = document.querySelectorAll('[class*="lang"]');
-            elements.forEach(function(element) {
-                if (element.classList.contains(lang)) {
-                    element.style.display = 'block';
-                } else {
-                    element.style.display = 'none';
-                }
-            });
-            // Ensure the buttons remain visible
-            var buttons = document.querySelectorAll('.language-selection button');
-            buttons.forEach(function(button) {
-                button.style.display = 'inline-block';
-            });
+        function changeLanguage(language) {
+            if (language === 'jp') {
+                document.documentElement.lang = 'ja';
+            } else {
+                document.documentElement.lang = 'en';
+            }
         }
     </script>
 </body>
