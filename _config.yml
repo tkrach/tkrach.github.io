@@ -2,6 +2,6 @@ title: Tim Krach
 description: Personal website of Tim Krach
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tkrach.github.io" # the base hostname & protocol for your site
-
+theme: minima
 # Build settings
 markdown: kramdown
