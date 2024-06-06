@@ -1,51 +1,14 @@
 # Site settings
-title: Your Website Title
-description: Your website description
-url: https://tkrach.github.io
-baseurl: "" # Leave blank if site is hosted at root of domain
-permalink: /:title.html # Permalink structure
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://tkrach.github.io/" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-architect # Change this to the name of your desired theme
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Markdown processor
 markdown: kramdown
-
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-# Pagination
-paginate: 5 # Number of posts per page
-
-# Jekyll SEO settings
-seo:
-  name: Your Name
-  title: Your Website Title
-  description: Your website description
-  url: "https://yourdomain.com"
-  social:
-    twitter: your_twitter_handle
-    facebook: your_facebook_username
-    instagram: your_instagram_username
-    linkedin: your_linkedin_username
-
-# Navigation links
-header_pages:
-  - title: Home
-    url: /
-  - title: About
-    url: /about.html
-  - title: Blog
-    url: /blog.html
-  # Add more pages as needed
-
