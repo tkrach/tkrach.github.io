@@ -7,7 +7,6 @@ title: 日本語
     <nav>
         <ul>
             <li><a href="{{ '/index.html' | relative_url }}">English</a></li>
-            <li><a href="{{ '/index_jp.html' | relative_url }}">ホーム</a></li>
         </ul>
     </nav>
 </header>
