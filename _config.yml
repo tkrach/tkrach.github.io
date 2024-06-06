@@ -1,6 +1,7 @@
 # Site settings
 title: Your Website Title
 description: Your website description
+url: https://tkrach.github.io
 baseurl: "" # Leave blank if site is hosted at root of domain
 permalink: /:title.html # Permalink structure
 
