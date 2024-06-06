@@ -1,26 +1,16 @@
+---
+layout: default
+---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/css/main.scss' | relative_url }}">
+    {% include head.html %}
   </head>
   <body>
-    <header>
-      <h1>{{ site.title }}</h1>
-      <nav>
-        <ul>
-          <li><a href="{{ '/' | relative_url }}">Home</a></li>
-          <li><a href="{{ '/index_jp' | relative_url }}">日本語</a></li>
-        </ul>
-      </nav>
-    </header>
+    {% include header.html %}
     <main>
       {{ content }}
     </main>
-    <footer>
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
-    </footer>
+    {% include footer.html %}
   </body>
 </html>
