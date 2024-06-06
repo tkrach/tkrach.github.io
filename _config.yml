@@ -1,0 +1,50 @@
+# Site settings
+title: Your Website Title
+description: Your website description
+baseurl: "" # Leave blank if site is hosted at root of domain
+permalink: /:title.html # Permalink structure
+
+# Build settings
+theme: jekyll-theme-architect # Change this to the name of your desired theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Markdown processor
+markdown: kramdown
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Pagination
+paginate: 5 # Number of posts per page
+
+# Jekyll SEO settings
+seo:
+  name: Your Name
+  title: Your Website Title
+  description: Your website description
+  url: "https://yourdomain.com"
+  social:
+    twitter: your_twitter_handle
+    facebook: your_facebook_username
+    instagram: your_instagram_username
+    linkedin: your_linkedin_username
+
+# Navigation links
+header_pages:
+  - title: Home
+    url: /
+  - title: About
+    url: /about.html
+  - title: Blog
+    url: /blog.html
+  # Add more pages as needed
+
