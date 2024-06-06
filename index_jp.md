@@ -3,14 +3,6 @@ layout: default
 title: 日本語
 ---
 
-<header>
-    <nav>
-        <ul>
-            <li><a href="{{ '/index.html' | relative_url }}">English</a></li>
-        </ul>
-    </nav>
-</header>
-
 <section id="summary">
     <h1>プロフェッショナルサマリー</h1>
     <p>サイバーセキュリティ、ソフトウェアエンジニアリング、および組み込み開発の強力な背景を持つコンピュータサイエンスの専門家です。セキュリティ、Linux、ネットワーキング、リバースエンジニアリング、C++、Java、Pythonに精通しており、その他のさまざまな言語の経験も豊富です。</p>
