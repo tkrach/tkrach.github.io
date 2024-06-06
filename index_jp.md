@@ -14,7 +14,7 @@ title: 日本語
     <h2>履歴書</h2>
     <a href="{{ '/resume/ResumeJP.pdf' | relative_url }}" target="_blank">履歴書をダウンロード</a>
     <h2>職務経歴書</h2>
-    <a href="{{ '/resume/workHistoryJP.pdf' | relative_url }}" target="_blank">履歴書をダウンロード</a>
+    <a href="{{ '/resume/workHistoryJP.pdf' | relative_url }}" target="_blank">職務経歴書をダウンロード</a>
 </section>
 
 <section id="links">
