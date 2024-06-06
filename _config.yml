@@ -1,5 +1,6 @@
 title: Tim Krach
-description: Software Engineer | Cybersecurity Professional | ソフトウェアエンジニア | サイバーセキュリティプロフェッショナル
+description: Software Engineer | Cybersecurity Professional 
+ソフトウェアエンジニア | サイバーセキュリティプロフェッショナル
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tkrach.github.io" # the base hostname & protocol for your site
 remote_theme: pages-themes/cayman@v0.2.0
