@@ -17,14 +17,6 @@ title: 日本語
     <a href="{{ '/resume/workHistoryJP.pdf' | relative_url }}" target="_blank">職務経歴書をダウンロード</a>
 </section>
 
-<section id="links">
-    <h2>私とつながる</h2>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/tim-krach/" target="_blank">LinkedIn</a></li>
-        <li><a href="https://github.com/tkrach" target="_blank">GitHub</a></li>
-    </ul>
-</section>
-
 <section id="projects">
     <h2>プロジェクト</h2>
     <ul>
