@@ -20,12 +20,12 @@
 <header class="page-header" role="banner">
     <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
     <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        {% if page.path == 'index_jp.md' %}
-        <a href="/index" class="btn">English Version</a>
-    {% else %}
-        <a href="/index_jp" class="btn">Japanese Version</a>
-    {% endif %}
     <a href="https://github.com/tkrach" class="btn">GitHub</a>
+    {% if page.path == 'index_jp.md' %}
+        <a href="/index" class="btn">English</a>
+    {% else %}
+        <a href="/index_jp" class="btn">日本語</a>
+    {% endif %}
     <a href="https://www.linkedin.com/in/tim-krach" class="btn">LinkedIn</a>
 </header>
 
