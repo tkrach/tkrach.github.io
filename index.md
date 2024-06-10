@@ -36,6 +36,6 @@ Right now I am developing a few different personal projects for my interests and
 - **Domains**: Software Development, Mobile Development, Netowrking, Embedded Systems
 
 ## Resume
-[Download my resume here](https://github.com/yourusername/yourrepository/raw/main/resume/ResumeEn.pdf)
+[Download my resume here](https://github.com/tkrach/tkrach.github.io/raw/main/resume/ResumeEn.pdf)
 
 ---
