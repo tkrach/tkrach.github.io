@@ -5,7 +5,8 @@ title: Home
 
 # About Me
 
-Hello! I'm Tim. I embarked on my journey in computer science and security at the age of 15 when I discovered a vulnerability in the configuration of active directory at my school, which led to kickstarting a cybersecurity club at my high school. Since then, I've engaged in several roles at various companies, encompassing both software development and cybersecurity domains.
+Hey I'm Tim!
+I embarked on my journey in computer science and security at the age of 15 when I discovered a vulnerability in the configuration of windows active directory at my school, which led to kickstarting a cybersecurity club with the Head of Technology there. Since then, I've engaged in several roles at various companies, encompassing both software development and cybersecurity domains.
 
 Equipped with a degree in Computer Science and Japanese Language from the University of Maryland, College Park, I came to Japan with the intention of teaching English as a means to establish personal connections and immerse myself in the culture before delving back into the realm of computer science and security. While my teaching journey has been enriching, it has only deepened my realization that my true passion lies in technology.  As such, I am now eagerly seeking opportunities to re-enter the realm of computer science.
 
