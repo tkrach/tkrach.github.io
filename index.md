@@ -33,7 +33,7 @@ Right now I am developing a few different personal projects for my interests and
 - **Programming Languages**: C, C++, Python, Java, Kotlin
 - **Tools**: Ghidra, IDAPro, VMware, Docker, Kali Linux, Metasploit, Burp Suite, Wireshark
 - **Cybersecurity**: Penetration Testing, Vulnerability Assessment, Reverse Engineering, Threat Analysis, OS Hardening
-- **Domains**: Software Development, Mobile Development, Netowrking, Embedded Systems
+- **Domains**: Software Development, Mobile Development, Networking, Embedded Systems
 
 ## Resume
 [Download my resume here.](https://github.com/tkrach/tkrach.github.io/raw/main/resume/ResumeEn.pdf)
