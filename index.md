@@ -8,11 +8,11 @@ title: Home
 Hello! I'm Tim, a passionate software developer specializing security.
 
 ## Key Highlights
-- Developed a web application that **[Brief Description of Major Project]**
+- Working in the security field for 10 years personally and 4 years professionally.
 - Contributed to open-source projects on GitHub, including **[Project Name]**
 - Published articles on **[Relevant Platform/Blog]**
 
-## Featured Projects
+## Projects
 Right now I am developing a few different personal projects for my interests and increasing my development skills. I am working on two main projects right now, and you can view the GitHubs for both below!
 - **Spotify Playlist Generator**: An application for generating spotify playlists using both Spotify and ChatGPTs' APIs [Learn More](https://github.com/tkrach/SpotifyRecommendations)
 - **Project 2**: A project for keeping my algorithm skills sharp for interviews and professional development. [Learn More](https://github.com/tkrach/codingPractice)
