@@ -31,6 +31,7 @@ title: クラックティム
 
 ## 履歴書
 [こちらから履歴書をダウンロードしてください](https://github.com/yourusername/yourrepository/raw/main/resume/resumeJP.pdf)
+
 [こちらから職務経歴書をダウンロードしてください](https://github.com/yourusername/yourrepository/raw/main/resume/workHistoryJP.pdf)
 
 ---
