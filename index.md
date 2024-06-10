@@ -25,5 +25,7 @@ Right now I am developing a few different personal projects for my interests and
 - **Cybersecurity**: Penetration Testing, Vulnerability Assessment, Reverse Engineering, Threat Analysis, OS Hardening
 - **Domains**: Software Development, Mobile Development, Netowrking, Embedded Systems
 
+## Resume
+[Download my resume here](https://github.com/yourusername/yourrepository/raw/main/resume/ResumeEn.pdf)
 
 ---
