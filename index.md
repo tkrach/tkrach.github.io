@@ -26,7 +26,7 @@ With a multifaceted professional background, I believe I am well-suited for role
 Right now I am developing a few different personal projects for my interests and increasing my development skills. I am working on three main projects right now, and you can view the GitHub Repositories for them below!
 - **Spotify Playlist Generator**: An application for generating spotify playlists using both Spotify and ChatGPTs' APIs [Learn More](https://github.com/tkrach/SpotifyRecommendations)
 - **Algorithm Practice**: A project for keeping my algorithm skills sharp for interviews and professional development. [Learn More](https://github.com/tkrach/codingPractice)
-- **This Website**: This website was created on Github Pages using html, css, and jekyll [Learn More](https://github.com/tkrach/tkrach.github.io)
+- **This Website**: This website was created on Github Pages using html, css, and Jekyll. [Learn More](https://github.com/tkrach/tkrach.github.io)
 
 
 ## Skills and Expertise
