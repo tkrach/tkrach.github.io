@@ -3,16 +3,29 @@ layout: default
 title: クラックティム
 ---
 
-<section id="summary">
-    <h1>プロフェッショナルサマリー</h1>
-    <p>サイバーセキュリティ、ソフトウェアエンジニアリング、および組み込み開発の強力な背景を持つコンピュータサイエンスの専門家です。セキュリティ、Linux、ネットワーキング、リバースエンジニアリング、C++、Java、Pythonに精通しており、その他のさまざまな言語の経験も豊富です。</p>
-    <p>最近では東京のイーオン株式会社で英語教師として働き、コミュニケーションスキルと文化適応能力を向上させました。過去の役職には、Loyola Blakefield High Schoolのサイバー防衛インストラクター、Vulnerability Research LabsおよびBooz Allen Hamiltonのソフトウェアエンジニアなどがあります。</p>
-    <p>安全なソフトウェアソリューションの開発、脆弱性評価の実施、リバースエンジニアリングの実行における実証された専門知識を持っています。日本のエンジニアリングワークビザおよびCompTIA Network+認定の保持者です。現在、技術スキルと異文化体験を活かせる挑戦的なエンジニアリングまたはサイバーセキュリティの役割を探しています。</p>
-</section>
+# 自己紹介
 
-<section id="resume">
-    <h2>履歴書</h2>
-    <a href="{{ '/resume/ResumeJP.pdf' | relative_url }}" target="_blank">履歴書をダウンロード</a>
-    <h2>職務経歴書</h2>
-    <a href="{{ '/resume/workHistoryJP.pdf' | relative_url }}" target="_blank">職務経歴書をダウンロード</a>
-</section>
+こんにちは！私はティムです。セキュリティを専門とする情熱的なソフトウェア開発者です。
+
+## 主なハイライト
+- 個人的には10年間、職業としては4年間、セキュリティ分野で活動しています。
+- GitHubでオープンソースプロジェクトに貢献しました。
+- **[Relevant Platform/Blog]**で記事を公開しています。
+
+## プロジェクト
+現在、興味と開発スキルの向上のためにいくつかの個人プロジェクトを開発しています。現在、3つの主要なプロジェクトに取り組んでおり、以下からそれらのGitHubリポジトリをご覧いただけます！
+- **Spotifyプレイリストジェネレーター**: SpotifyとChatGPTsのAPIを使用してSpotifyプレイリストを生成するアプリケーション[詳細](https://github.com/tkrach/SpotifyRecommendations)
+- **アルゴリズム練習**: 面接や職業的な成長のためにアルゴリズムスキルを磨くプロジェクト[詳細](https://github.com/tkrach/codingPractice)
+- **このウェブサイト**: このウェブサイトは、html、css、jekyllを使用してGithub Pages上で作成されました[詳細](https://github.com/tkrach/tkrach.github.io)
+
+## スキルと専門知識
+- **プログラミング言語**: C、C++、Python、Java、Kotlin
+- **ツール**: Ghidra、IDAPro、VMware、Docker、Kali Linux、Metasploit、Burp Suite、Wireshark
+- **サイバーセキュリティ**: ペネトレーションテスト、脆弱性評価、リバースエンジニアリング、脅威分析、OSの強化
+- **ドメイン**: ソフトウェア開発、モバイル開発、ネットワーキング、組み込みシステム
+
+## 履歴書
+[こちらから履歴書をダウンロードしてください](https://github.com/yourusername/yourrepository/raw/main/resume/resumeJP.pdf)
+[こちらから職務経歴書をダウンロードしてください](https://github.com/yourusername/yourrepository/raw/main/resume/workHistoryJP.pdf)
+
+---
