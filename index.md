@@ -14,11 +14,3 @@ title: Tim Krach
     <h2>Resume</h2>
     <a href="{{ '/resume/ResumeEn.pdf' | relative_url }}" target="_blank">Download my Resume</a>
 </section>
-
-<section id="projects">
-    <h2>Projects</h2>
-    <ul>
-        <li><a href="https://github.com/yourprofile/project1" target="_blank">Project 1</a></li>
-        <li><a href="https://github.com/yourprofile/project2" target="_blank">Project 2</a></li>
-    </ul>
-</section>
