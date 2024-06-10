@@ -5,7 +5,7 @@ title: Tim Krach
 
 # About Me
 
-Hey I'm Tim!
+Hey, I'm Tim!
 
 I embarked on my journey in computer science and security at the age of 15 when I discovered a vulnerability in the configuration of windows active directory at my school, which led to kickstarting a cybersecurity club with the Head of Technology there. Since then, I've engaged in several roles at various companies, encompassing both software development and cybersecurity domains.
 
@@ -36,6 +36,6 @@ Right now I am developing a few different personal projects for my interests and
 - **Domains**: Software Development, Mobile Development, Netowrking, Embedded Systems
 
 ## Resume
-[Download my resume here](https://github.com/tkrach/tkrach.github.io/raw/main/resume/ResumeEn.pdf)
+[Download my resume here.](https://github.com/tkrach/tkrach.github.io/raw/main/resume/ResumeEn.pdf)
 
 ---
