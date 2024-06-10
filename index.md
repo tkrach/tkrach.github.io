@@ -14,6 +14,8 @@ Equipped with a degree in Computer Science and Japanese Language from the Univer
 With a multifaceted professional background, I believe I am well-suited for roles in both software development and cybersecurity. My diverse experiences have honed my adaptability, problem-solving skills, and technical acumen, making me adept at thriving in dynamic environments. Please feel free to look through this website and my projects, or contact me on LinkedIn!
 
 ## Key Highlights
+- **Professional Software Development Experience:** Equipped with a wealth of experience gained from working on significant software development projects in various industry settings. From my tenure at organizations such as Vulnerability Research Labs and Booz Allen Hamilton, I've contributed to the development of mission-critical software solutions, leveraging my expertise in programming languages such as C++, Python, and Java to address complex challenges and deliver innovative solutions.
+  
 - **Extensive Experience in Security:** With a decade of personal experience and four years of professional engagement in the security field, I've honed my skills in cybersecurity, reverse engineering, and vulnerability assessment.
   
 - **Language Skills and Cultural Adaptability:** Fluent in business-level Japanese, with a background in Japanese Language from the University of Maryland, College Park. Possessing a Japanese Engineering Work Visa showcases my ability to adapt and thrive in diverse cultural settings.
