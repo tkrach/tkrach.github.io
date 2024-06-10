@@ -13,8 +13,11 @@ With a multifaceted professional background, I believe I am well-suited for role
 
 ## Key Highlights
 - **Extensive Experience in Security:** With a decade of personal experience and four years of professional engagement in the security field, I've honed my skills in cybersecurity, reverse engineering, and vulnerability assessment.
-- **Language Skills and Cultural Adaptability:** Fluent in business-level Japanese, with a background in Japanese Language from the University of Maryland, College Park. Possessing a Japanese Engineering Work Visa showcases my ability to adapt and thrive in diverse cultural settings.Leadership and Project Management: **Leadership and Project Management:** Demonstrated ability to lead teams and manage projects effectively, as evidenced by my experience in coaching students for cybersecurity competitions and leading a team in reverse engineering projects.
-- 
+  
+- **Language Skills and Cultural Adaptability:** Fluent in business-level Japanese, with a background in Japanese Language from the University of Maryland, College Park. Possessing a Japanese Engineering Work Visa showcases my ability to adapt and thrive in diverse cultural settings.
+  
+- **Leadership and Project Management:** Demonstrated ability to lead teams and manage projects effectively, as evidenced by my experience in coaching students for cybersecurity competitions and leading a team in reverse engineering projects.
+  
 ## Projects
 Right now I am developing a few different personal projects for my interests and increasing my development skills. I am working on three main projects right now, and you can view the GitHub Repositories for them below!
 - **Spotify Playlist Generator**: An application for generating spotify playlists using both Spotify and ChatGPTs' APIs [Learn More](https://github.com/tkrach/SpotifyRecommendations)
