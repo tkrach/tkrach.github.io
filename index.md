@@ -5,7 +5,11 @@ title: Home
 
 # About Me
 
-Hello! I'm Tim, a passionate software developer specializing security.
+Hello! I'm Tim. I embarked on my journey in computer science and security at the age of 15 when I started a cybersecurity club at my high school. Since then, I've engaged in several roles at various companies, encompassing both software development and cybersecurity domains.
+
+Equipped with a degree in Computer Science and Japanese Language from the University of Maryland, College Park, I came to Japan to teach English, with a hope to establish a life and career in Japan. While teaching has been enriching, I've realized that my true passion lies in computer science. As such, I am now eagerly seeking opportunities to re-enter the realm of computer science.
+
+With a multifaceted professional background, I believe I am well-suited for roles in both software development and cybersecurity. My diverse experiences have honed my adaptability, problem-solving skills, and technical acumen, making me adept at thriving in dynamic environments. Please feel free to look through my websites, or contact me on LinkedIn!
 
 ## Key Highlights
 - Working in the security field for 10 years personally and 4 years professionally.
