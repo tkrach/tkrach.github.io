@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Introduction
+# About Me
 
 Hello! I'm Tim, a passionate software developer specializing security.
 
@@ -15,6 +15,8 @@ Hello! I'm Tim, a passionate software developer specializing security.
 ## Featured Projects
 - **Project 1**: A web application for **[Purpose]**. [Learn More](link)
 - **Project 2**: An innovative tool for **[Purpose]**. [Learn More](link)
+- [Projects](projects.md)
+
 
 ## Skills and Expertise
 - **Programming Languages**: C, C++, Python, Java, Kotlin
@@ -22,10 +24,5 @@ Hello! I'm Tim, a passionate software developer specializing security.
 - **Cybersecurity**: Penetration Testing, Vulnerability Assessment, Reverse Engineering, Threat Analysis, OS Hardening
 - **Domains**: Software Development, Mobile Development, Netowrking, Embedded Systems
 
-## About Me
-
 
 ---
-
-### Projects
-- [Projects](projects.md)
