@@ -16,11 +16,3 @@ title: クラックティム
     <h2>職務経歴書</h2>
     <a href="{{ '/resume/workHistoryJP.pdf' | relative_url }}" target="_blank">職務経歴書をダウンロード</a>
 </section>
-
-<section id="projects">
-    <h2>プロジェクト</h2>
-    <ul>
-        <li><a href="https://github.com/yourprofile/project1" target="_blank">プロジェクト 1</a></li>
-        <li><a href="https://github.com/yourprofile/project2" target="_blank">プロジェクト 2</a></li>
-    </ul>
-</section>
