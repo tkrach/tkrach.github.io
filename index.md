@@ -7,11 +7,11 @@ title: Tim Krach
 
 Hey, I'm Tim!
 
-I embarked on my journey in computer science and security at the age of 15 when I discovered a vulnerability in the configuration of windows active directory at my school, which led to kickstarting a cybersecurity club with the Head of Technology there. Since then, I've engaged in several roles at various companies, encompassing both software development and cybersecurity domains.
+I started my journey in computer science and security at 15 when I found a vulnerability in the Windows Active Directory setup at my school. This discovery led me to start a cybersecurity club with the Head of Technology. Since then, I've taken on various roles in both software development and cybersecurity.
 
-Equipped with a degree in Computer Science and Japanese Language from the University of Maryland, College Park, I came to Japan with the intention of teaching English as a means to establish personal connections and immerse myself in the culture before delving back into the realm of computer science and security. While my teaching journey has been enriching, it has only deepened my realization that my true passion lies in technology.  As such, I am now eagerly seeking opportunities to re-enter the realm of computer science.
+With a degree in Computer Science and Japanese Language from the University of Maryland, College Park, I moved to Japan to teach English, hoping to make personal connections and immerse myself in the culture. While teaching has been rewarding, it has confirmed that my true passion lies in technology. I'm now excited to return to the field of computer science.
 
-With a multifaceted professional background, I believe I am well-suited for roles in both software development and cybersecurity. My diverse experiences have honed my adaptability, problem-solving skills, and technical acumen, making me adept at thriving in dynamic environments. Please feel free to look through this website and my projects, or contact me on LinkedIn!
+My background in software development and cybersecurity has sharpened my adaptability, problem-solving skills, and technical knowledge. I'm confident in my ability to thrive in dynamic environments and contribute to both areas. Please feel free to browse this website and my projects or connect with me on LinkedIn!
 
 ## Key Highlights
 - **Professional Software Development Experience:** Equipped with a wealth of experience gained from working on significant software development projects in various industry settings. From my tenure at organizations such as Vulnerability Research Labs and Booz Allen Hamilton, I've contributed to the development of mission-critical software solutions, leveraging my expertise in programming languages such as C++, Python, and Java to address complex challenges and deliver innovative solutions.
