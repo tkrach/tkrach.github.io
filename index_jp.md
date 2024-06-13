@@ -22,6 +22,7 @@ title: クラックティム
 ## プロジェクト
 現在、興味や開発スキルの向上のためにいくつかの個人プロジェクトに取り組んでいます。現在、3つのメインプロジェクトに取り組んでおり、それらのGitHubリポジトリを以下でご覧いただけます！
 - **Spotifyプレイリストジェネレーター**: SpotifyとChatGPTsのAPIを使用してSpotifyプレイリストを生成するアプリケーション [詳細を見る](https://github.com/tkrach/SpotifyRecommendations)
+- **プレイリストボットAndroid版**: 上記のアプリをAndroidアプリに変換しました！[詳細を見る](https://github.com/tkrach/PlaylistBot)
 - **アルゴリズム練習**: インタビューや専門開発のためにアルゴリズムスキルを磨くプロジェクト [詳細を見る](https://github.com/tkrach/codingPractice)
 - **このウェブサイト**: このウェブサイトは、html、css、jekyllを使用してGithub Pagesで作成されました [詳細を見る](https://github.com/tkrach/tkrach.github.io)
 
